@@ -24,7 +24,8 @@
 
 ### 💰 coinTalk
 ```
-코인에 대한 실시간 가격 / 차트 정보를 확인할 수 있고 차트에 드로잉툴을 이용해 이미지를 만들 수 있고 차트데이터를 저장하는 기능을 제공하고 채팅방에 공유하며 커뮤니케이션 할 수 있는 프로그램입니다.
+코인에 대한 실시간 가격 / 차트 정보를 확인하고 차트에 드로잉툴을 이용해 이미지를 만들 수 있고
+차트데이터를 저장하는 기능을 제공하고 채팅방에 공유하며 커뮤니케이션 할 수 있는 프로그램입니다.
 ```
 
 ### 아키텍쳐
@@ -59,18 +60,21 @@
         <td align="center">Chat, News Domain</td>
         <td align="center">Gateway,Kafka,Slack,Data Lake,Paper Domain</td>
     </tr>
-        <tr>
+    <tr>
         <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/front">Front Repo</a> 
+            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
         </td>
         <td align="center">
-            
+            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
         </td>
         <td align="center">
-        
+            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
+            <a href="https://github.com/dduckddack-coinTalk/front">2. Front Repo</a> 
         </td>
         <td align="center">
-        
+            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
+            <a href="https://github.com/dduckddack-coinTalk/front">2. Front Repo</a> 
+            <a href="https://github.com/dduckddack-coinTalk/front">3. Front Repo</a> 
         </td>
     </tr>
 </table>
