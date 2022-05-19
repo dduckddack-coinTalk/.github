@@ -16,7 +16,35 @@
 ```
 # 배포 링크
 
-[코인톡 바로가기](https://cointalk.wachsenhaus.com)
+[코인톡 바로가기](https://cointalk.wachsenhaus.com)  
+<table>
+    <tr>
+        <td align="center">메인</td>
+        <td align="center">거래소</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169392256-1c18615e-971d-44dc-b2e2-c6e9e766b069.gif" />메인</a>
+        </td>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/trade"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169392274-fcd81c85-2518-499a-a121-68fea176b2de.gif" />거래소</a>
+        </td>
+    </tr>
+    <tr>
+        <td align="center">채팅</td>
+        <td align="center">뉴스</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/chat"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169392289-a8ab383b-270e-4e73-9e08-ac5f6ee0e14a.gif" />채팅</a>
+        </td>
+        <td align="center">
+            <a href="https://cointalk.wachsenhaus.com/news"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169392302-17a0cffc-88b3-4834-8e3a-238a00477e13.gif" />뉴스</a>
+        </td>
+    </tr>
+</table>
+
+
 
 ### 배포 데모 GIF
 
