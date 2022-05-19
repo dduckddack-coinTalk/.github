@@ -1,25 +1,12 @@
 ```
 목차
-0. 노션 링크
+0. 프로그램 소개
 1. 배포 링크
-2. 프로그램 소개
-3. 기술발표
-4. 마무리
+2. 위키 링크
+3. 피그마 링크
+4. 기술발표
+5. Q&A
 ```
-
-# 배포 링크
-
-[코인톡 바로가기](https://cointalk.wachsenhaus.com)
-
-### 프로젝트 노션 링크
-
-[노션 바로가기](https://sprinkle-harmony-6dc.notion.site/SR-4ba2051778e14db6b845284ebb0bff17)
-
-### 피그마 링크
-
-[피그마 바로가기](https://www.figma.com/proto/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?page-id=0%3A1&node-id=85%3A2898&viewport=241%2C48%2C0.35&scaling=scale-down&starting-point-node-id=66%3A1226)
-
-
 # 프로그램 소개
 
 ### 💰 coinTalk
@@ -27,9 +14,22 @@
 코인에 대한 실시간 가격 / 차트 정보를 확인하고 차트에 드로잉툴을 이용해 이미지를 만들 수 있고
 차트데이터를 저장하는 기능을 제공하고 채팅방에 공유하며 커뮤니케이션 할 수 있는 프로그램입니다.
 ```
+# 배포 링크
+
+[코인톡 바로가기](https://cointalk.wachsenhaus.com)
+
+# 위키 페이지
+[위키 바로가기](https://github.com/dduckddack-coinTalk/coinTalk/wiki)
+
+# 피그마 링크
+
+[피그마 바로가기](https://www.figma.com/proto/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?page-id=0%3A1&node-id=66%3A1226&viewport=226%2C536%2C0.12&scaling=scale-down&starting-point-node-id=66%3A1226)
+
+
+
 
 ### 아키텍쳐
-<img src="https://user-images.githubusercontent.com/59411545/168255526-dd05aabf-9ae4-4354-bb06-878103b6c5e3.png" widht="400px" />
+<img src="https://user-images.githubusercontent.com/59411545/169223371-65fcc25a-3274-4737-a1c4-0198980b58d0.png" widht="400px" />
 
 
 ###### 만든이
