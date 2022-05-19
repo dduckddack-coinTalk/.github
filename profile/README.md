@@ -29,7 +29,8 @@
 
 
 ### 아키텍쳐
-<img src="https://user-images.githubusercontent.com/59411545/169223371-65fcc25a-3274-4737-a1c4-0198980b58d0.png" widht="400px" />
+<img src="https://user-images.githubusercontent.com/57323359/169324737-fb01c8c2-ce42-4edf-abd5-8e0915addf1e.png"  />
+
 
 
 ###### 만든이
@@ -65,7 +66,7 @@
             <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
         </td>
         <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
+            <a href="https://github.com/dduckddack-coinTalk/app-user">1. UserService Repo</a> 
         </td>
         <td align="center">
             <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
