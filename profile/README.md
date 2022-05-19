@@ -20,7 +20,7 @@
 
 ### 배포 데모 GIF
 
-# 위키 페이지
+# 위키 
 [위키 바로가기](https://github.com/dduckddack-coinTalk/coinTalk/wiki)
 
 ### 위키 데모 GIF
@@ -37,6 +37,11 @@
 
 
 백엔드
+
+# 아키텍쳐
+<img src="https://user-images.githubusercontent.com/57323359/169324737-fb01c8c2-ce42-4edf-abd5-8e0915addf1e.png"  />
+*** 
+
 
 # 요구 사항 정의 및 구현 목록
 - [x] 메인 페이지 - 코인 거래량 Top5의 간단 정보를 보여준다.
@@ -65,9 +70,6 @@
 - [x] 도화지 - 저장된 도화지 데이터를 기반으로 이미지와, 해당 시간 때의 차트 데이터를 불러온다.
 - [x] 뉴스 - 코인의 뉴스들을 크롤링하여 뉴스 페이지에 보여준다.
 - [x] 뉴스 - 채팅방에 최신 뉴스가 보여진다.
-
-### 아키텍쳐
-<img src="https://user-images.githubusercontent.com/57323359/169324737-fb01c8c2-ce42-4edf-abd5-8e0915addf1e.png"  />
 
 
 
