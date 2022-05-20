@@ -50,6 +50,16 @@
 
 # 위키 
 [위키 바로가기](https://github.com/dduckddack-coinTalk/coinTalk/wiki)
+<table>
+    <tr>
+        <td align="center">위키</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="[https://cointalk.wachsenhaus.com/](https://github.com/dduckddack-coinTalk/coinTalk/wiki)"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169443128-fd748657-96ca-40ee-b068-70f50a75c348.gif" />메인</a>
+        </td>
+    </tr>
+</table>
 
 ### 위키 데모 GIF
 
