@@ -121,18 +121,21 @@ rsocket
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">
-<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">  
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169445137-3e30cae5-c662-4670-ab1d-1c0798f058d0.jpeg">  
 ***
 슬렉 봇  도메인  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
 <img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
-<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169445137-3e30cae5-c662-4670-ab1d-1c0798f058d0.jpeg">  
 ***
 데이터레이크  도메인  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">  
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169445137-3e30cae5-c662-4670-ab1d-1c0798f058d0.jpeg">  
 # 아키텍쳐
 <img src="https://user-images.githubusercontent.com/57323359/169324737-fb01c8c2-ce42-4edf-abd5-8e0915addf1e.png"  />
 *** 
