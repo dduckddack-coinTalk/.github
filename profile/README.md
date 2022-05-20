@@ -10,12 +10,13 @@
 # 프로그램 소개
 
 ### 💰 coinTalk
+
+*우리가 만든 프로그램은 !!!!* 
 ```
 코인에 대한 실시간 가격 / 차트 정보를 확인하고 차트에 드로잉툴을 이용해 이미지를 만들 수 있고
 차트데이터를 저장하는 기능을 제공하고 채팅방에 공유하며 커뮤니케이션 할 수 있는 프로그램입니다.
 ```
-# 배포 링크
-
+# 배포
 [코인톡 바로가기](https://cointalk.wachsenhaus.com)  
 <table>
     <tr>
@@ -44,11 +45,7 @@
     </tr>
 </table>
 
-
-
-### 배포 데모 GIF
-
-# 위키 
+# 위키
 [위키 바로가기](https://github.com/dduckddack-coinTalk/coinTalk/wiki)
 <table>
     <tr>
@@ -61,21 +58,83 @@
     </tr>
 </table>
 
-### 위키 데모 GIF
-
-# 피그마 링크
-
+# 피그마
 [피그마 바로가기](https://www.figma.com/proto/ONa4Cdcphe8xCPxzgPSGVV/bitthumb-frontend?page-id=0%3A1&node-id=66%3A1226&viewport=226%2C536%2C0.12&scaling=scale-down&starting-point-node-id=66%3A1226)
+<table>
+    <tr>
+        <td align="center">피그마</td>
+    </tr>
+    <tr>
+        <td align="center">
+            <a href="[https://cointalk.wachsenhaus.com/](https://github.com/dduckddack-coinTalk/coinTalk/wiki)"><img  width="640px" src="https://user-images.githubusercontent.com/59411545/169443610-0dd9fb85-7f6b-411e-a7c1-b0d43ed60287.gif" />메인</a>
+        </td>
+    </tr>
 
-### 피그마 데모 GIF
+</table>
 
 ***
 # 사용한 기술 스택
-프론트
+프론트  
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=TypeScript&logoColor=white">
+<img src="https://img.shields.io/badge/CRA-09D3AC?style=for-the-badge&logo=Create React App&logoColor=white">
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=for-the-badge&logo=Tailwind CSS&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169446081-ab473d25-2184-42ac-93c0-f63f59f6535e.png">
+<img src="https://img.shields.io/badge/AWS Amplify-FF9900?style=for-the-badge&logo=AWS Amplifyt&logoColor=white">
 
 
-백엔드
 
+***
+유저 도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+***
+채팅 도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">  
+Webflux
+rsocket
+****
+뉴스 도메인  
+*Rest API*  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/ReactiveMongoDb-47A248?style=for-the-badge&logo=MySQL&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169445137-3e30cae5-c662-4670-ab1d-1c0798f058d0.jpeg">  
+
+*Crawling*  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img width="100px" src="https://user-images.githubusercontent.com/59411545/169445004-89d312bd-63ae-48f2-ad57-54c13baa761b.png" />  
+
+*DB*  
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=MySQL&logoColor=white"> 
+
+***
+게이트웨이 도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Gateway-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">  
+***
+도화지  도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">
+<img src="https://img.shields.io/badge/Amazon S3-569A31?style=for-the-badge&logo=Amazon S3&logoColor=white">  
+***
+슬렉 봇  도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/Apache Kafka-231F20?style=for-the-badge&logo=Apache Kafka&logoColor=white">
+<img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=Slack&logoColor=white">  
+***
+데이터레이크  도메인  
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=Java&logoColor=white">
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
+<img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white">  
 # 아키텍쳐
 <img src="https://user-images.githubusercontent.com/57323359/169324737-fb01c8c2-ce42-4edf-abd5-8e0915addf1e.png"  />
 *** 
@@ -138,22 +197,5 @@
         <td align="center">User Domain</td>
         <td align="center">Chat, News Domain</td>
         <td align="center">Gateway,Kafka,Slack,Data Lake,Paper Domain</td>
-    </tr>
-    <tr>
-        <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
-        </td>
-        <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/app-user">1. UserService Repo</a> 
-        </td>
-        <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
-            <a href="https://github.com/dduckddack-coinTalk/front">2. Front Repo</a> 
-        </td>
-        <td align="center">
-            <a href="https://github.com/dduckddack-coinTalk/front">1. Front Repo</a> 
-            <a href="https://github.com/dduckddack-coinTalk/front">2. Front Repo</a> 
-            <a href="https://github.com/dduckddack-coinTalk/front">3. Front Repo</a> 
-        </td>
     </tr>
 </table>
